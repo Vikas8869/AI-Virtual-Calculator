@@ -29,7 +29,6 @@ An **AI-based Virtual Calculator** that uses your **hand gestures** to perform m
 - **OpenCV** – for camera input and UI rendering
 - **MediaPipe** – for hand landmark detection
 - **NumPy** – math operations
-- **Tkinter (GUI design)** – (optional, if you use it for enhancements)
 
 ---
 
